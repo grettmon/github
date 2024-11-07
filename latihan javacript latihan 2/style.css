@@ -1,0 +1,69 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.tengah{
+    display: flex;
+    justify-content:center;
+}
+
+
+label{
+color:rgb(255, 0, 0);
+    
+    
+    
+}
+body{
+
+    text-align: center;
+    text-shadow: 30dvh;
+     color: rgb(0, 0, 0);
+
+}
+button{
+    background-color: rgb(18, 0, 98);
+}
+.card{
+    width: 40%;
+    box-shadow: 0 4px 8px 0px rgb(0, 0, 0);
+}
+
+.card body{
+    padding: 2px 16px;
+background-color: blue;
+display: flex;
+justify-content: right;
+}
+.cardfooter{
+    padding :8px
+    
+}
+.card>h2{
+    padding:2px 16pX;
+}
+#hasil{
+    width: 100%;
+    height: 200%;
+    background-color: darkgray;
+    margin:20px 0px;
+    font-size: 14px;
+}
+.label{
+    font-size: 16px;
+    font-weight: bold;
+}
+input[type="teks"]{
+    width: 90%;
+    padding:10px
+    margin 8px 0px
+}
+.button{
+    border:none;
+    border-radius: 8px;
+    color: blue;
+    background-color: brown;
+    font-size: 16;
+    padding:5px 20px;
+
+}
